@@ -1,0 +1,7 @@
+{
+  "name":"institutional-journal",
+  "version":"0.1.0",
+  "main":"electron/main.js",
+  "scripts":{"dev":"vite","build":"vite build"},
+  "dependencies":{"react":"^19.0.0","react-dom":"^19.0.0","better-sqlite3":"^11.8.1","cheerio":"^1.0.0","recharts":"^2.15.0","electron":"^34.0.0"}
+}

@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS trades(
+id INTEGER PRIMARY KEY,
+ticket TEXT UNIQUE,
+symbol TEXT,
+profit REAL,
+session TEXT
+);

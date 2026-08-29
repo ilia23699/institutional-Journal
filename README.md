@@ -1,2 +1,3 @@
-# institutional-Journal
-Profesional Trading Analistics for MT5
+# Institutional Journal
+
+MVP scaffold.
